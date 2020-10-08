@@ -1,0 +1,10 @@
+#appbar
+{
+ background:#2F3A4C;
+}
+
+#AppbarTitle
+{
+    color:'white';
+    cursor:'pointer'
+}
