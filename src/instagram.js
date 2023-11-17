@@ -15,7 +15,7 @@ import Loader from './loading.gif'
 
 import './instagram.css';
 
-const UrlH="https://still-beyond-57046.herokuapp.com/"
+const UrlH="https://igaudit-api.codingtier.com"
 
 
 const style = theme => ({
